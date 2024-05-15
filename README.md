@@ -11,8 +11,10 @@ id (INT),user_id (INT),latitude (DECIMAL),longitude (DECIMAL),address (TEXT),tim
 3. Module đọc dữ liệu: Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ google map plasform
  MÔ TẢ NGUỒN DỮ LIỆU 
  -Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ Google Maps Platform.
+
  -Google Maps Platform cung cấp các dịch vụ API để làm việc với dữ liệu địa lý, bao gồm lấy vị trí, định vị địa chỉ, tìm đường đi, và nhiều tính năng khác.
+ 
  -Dữ liệu trả về từ Google Maps API thường là dạng JSON và bao gồm các thông tin như vị trí, địa chỉ, điểm quan trọng, v.v.
-4. Giao diện web.
+5. Giao diện web.
 - Xây dựng một ứng dụng web để hiển thị vị trí của người dùng 
 - Có thể phát triển thêm các chức năng như chỉ đường phục vụ người dùng
