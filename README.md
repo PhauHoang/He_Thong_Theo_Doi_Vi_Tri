@@ -9,6 +9,7 @@ Mục tiêu: Cung cấp khả năng định vị và hiển thị vị trí ngư
 Bảng Location:
 id (INT),user_id (INT),latitude (DECIMAL),longitude (DECIMAL),address (TEXT),timestamp (TIMESTAMP)
 3. Module đọc dữ liệu: Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ google map plasform
+
  MÔ TẢ NGUỒN DỮ LIỆU 
  -Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ Google Maps Platform.
 
